@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TaskForSquaresOfFigures\bin\Debug\netcoreapp3.1\TaskForSquaresOfFigures.exe
+C:\Users\User\source\repos\TaskForSquaresOfFigures\bin\Debug\netcoreapp3.1\TaskForSquaresOfFigures.deps.json
+C:\Users\User\source\repos\TaskForSquaresOfFigures\bin\Debug\netcoreapp3.1\TaskForSquaresOfFigures.runtimeconfig.json
+C:\Users\User\source\repos\TaskForSquaresOfFigures\bin\Debug\netcoreapp3.1\TaskForSquaresOfFigures.runtimeconfig.dev.json
+C:\Users\User\source\repos\TaskForSquaresOfFigures\bin\Debug\netcoreapp3.1\TaskForSquaresOfFigures.dll
+C:\Users\User\source\repos\TaskForSquaresOfFigures\bin\Debug\netcoreapp3.1\TaskForSquaresOfFigures.pdb
+C:\Users\User\source\repos\TaskForSquaresOfFigures\obj\Debug\netcoreapp3.1\TaskForSquaresOfFigures.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TaskForSquaresOfFigures\obj\Debug\netcoreapp3.1\TaskForSquaresOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TaskForSquaresOfFigures\obj\Debug\netcoreapp3.1\TaskForSquaresOfFigures.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TaskForSquaresOfFigures\obj\Debug\netcoreapp3.1\TaskForSquaresOfFigures.AssemblyInfo.cs
+C:\Users\User\source\repos\TaskForSquaresOfFigures\obj\Debug\netcoreapp3.1\TaskForSquaresOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TaskForSquaresOfFigures\obj\Debug\netcoreapp3.1\TaskForSquaresOfFigures.dll
+C:\Users\User\source\repos\TaskForSquaresOfFigures\obj\Debug\netcoreapp3.1\TaskForSquaresOfFigures.pdb
+C:\Users\User\source\repos\TaskForSquaresOfFigures\obj\Debug\netcoreapp3.1\TaskForSquaresOfFigures.genruntimeconfig.cache
